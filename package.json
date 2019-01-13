@@ -4,7 +4,9 @@
   "description": "社内勉強会資料（モダンな JS をするための環境構築講座）",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --watch"
+    "build": "webpack --watch",
+    "lint": "eslint --fix './src/**/**.js'",
+    "format": "prettier --write './src/**/**.js'"
   },
   "repository": {
     "type": "git",
@@ -23,7 +25,10 @@
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.5",
+    "eslint": "^5.12.0",
+    "prettier": "^1.15.3",
     "webpack": "^4.28.4",
     "webpack-cli": "^3.2.1"
   }
