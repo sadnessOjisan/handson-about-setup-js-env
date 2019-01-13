@@ -11,14 +11,20 @@ webpack で hello world するまではライブコーディングします。
 
 ### phase1
 
-urL [タグ](fiowheiofjwpe)
-
 react で helloworld するまでのコード
-react & babel & webpack
+
+|                |                                                                                                                                                    |
+| :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| url            | [https://github.com/sadnessOjisan/handson-about-setup-js-env/tree/v1.0.1](https://github.com/sadnessOjisan/handson-about-setup-js-env/tree/v1.0.1) |
+| 利用技術       | react & babel & webpack                                                                                                                            |
+| 利用ライブラリ | react, react-dom, @babel/core",@babel/preset-react,babel-loader,webpack,webpack-cli                                                                |
 
 ### phase2
 
-urL [タグ](fiowheiofjwpe)
-
 phase1 に linter と formatter を突っ込んだコード
-react & babel & webpack & eslint & prettier
+
+|                |                                                                                                                                                    |
+| :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| url            | [https://github.com/sadnessOjisan/handson-about-setup-js-env/tree/v2.0.0](https://github.com/sadnessOjisan/handson-about-setup-js-env/tree/v2.0.0) |
+| 利用技術       | react & babel & webpack & eslint & prettier                                                                                                        |
+| 利用ライブラリ | react, react-dom, @babel/core",@babel/preset-react,babel-loader,webpack,webpack-cli                                                                |
