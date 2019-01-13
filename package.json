@@ -1,0 +1,30 @@
+{
+  "name": "handson-about-setup-js-env",
+  "version": "1.0.0",
+  "description": "社内勉強会資料（モダンな JS をするための環境構築講座）",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadnessOjisan/handson-about-setup-js-env.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadnessOjisan/handson-about-setup-js-env/issues"
+  },
+  "homepage": "https://github.com/sadnessOjisan/handson-about-setup-js-env#readme",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}

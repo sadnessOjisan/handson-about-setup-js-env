@@ -6,3 +6,19 @@
 
 webpack で hello world するまではライブコーディングします。
 その続きは[こちら](starter)をみておいてください。
+
+## sample app 構成
+
+### phase1
+
+urL [タグ](fiowheiofjwpe)
+
+react で helloworld するまでのコード
+react & babel & webpack
+
+### phase2
+
+urL [タグ](fiowheiofjwpe)
+
+phase1 に linter と formatter を突っ込んだコード
+react & babel & webpack & eslint & prettier
